@@ -1,0 +1,48 @@
+_repo: Taxidermy-and-Zoological-CollectingOsteologist-Museum-Builder-Sportsman-and-Traveller_40109
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hudson, Charles B. (Charles Bradford)
+    alias: Hudson, Charles Bradford
+    birthdate: 1865
+    deathdate: 1939
+    gutenberg_agent_id: '40417'
+    url: http://www.gutenberg.org/2009/agents/40417
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Holland, W. J. (William Jacob)
+    alias: Holland, William Jacob
+    birthdate: 1848
+    deathdate: 1932
+    gutenberg_agent_id: '40416'
+    url: http://www.gutenberg.org/2009/agents/40416
+  - agent_name: Hornaday, William T. (William Temple)
+    aliases:
+    - Hornaday, W. T. (William Temple)
+    - Hornaday, Dr. William T.
+    - Hornaday, William Temple
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '1920'
+    url: http://www.gutenberg.org/2009/agents/1920
+    wikipedia: http://en.wikipedia.org/wiki/William_Temple_Hornaday
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2012-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoological specimens -- Collection and preservation'
+- !lcc 'QL'
+- !lcsh 'Taxidermy'
+title: "Taxidermy and Zoological Collecting\r\nA Complete Handbook for the Amateur\
+  \ Taxidermist, Collector, Osteologist, Museum-Builder, Sportsman, and Traveller"
+url: http://www.gutenberg.org/ebooks/40109
