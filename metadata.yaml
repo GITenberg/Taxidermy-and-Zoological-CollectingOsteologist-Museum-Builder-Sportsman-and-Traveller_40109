@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1920
     wikipedia: http://en.wikipedia.org/wiki/William_Temple_Hornaday
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40109#Taxidermy-and-Zoological-CollectingOsteologist-Museum-Builder-Sportsman-and-Traveller
 gutenberg_bookshelf: Crafts
 gutenberg_issued: '2012-06-30'
 gutenberg_type: Text
